@@ -28,6 +28,3 @@ else if (appRating <= 2.5) {
     recommendation = "Not Recommended"
 print("Not Recommended") 
 }
-else {
-print ("recommended")
-}
